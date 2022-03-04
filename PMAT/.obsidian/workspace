@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "1aeede919a2eec02",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5855f27081da0cb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes_From_Sections/Advanced_Analysis.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "427f8ec0ce2d578d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c55af24ddac7dec0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfa4d03e6c02047d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b562d5abfe2a4db3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e06ee56bb8cba301",
+    "type": "split",
+    "children": [
+      {
+        "id": "7495bf35d94ad12d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09e293d1f9636e63",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes_From_Sections/Advanced_Analysis.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e5855f27081da0cb",
+  "lastOpenFiles": [
+    "Notes_From_Sections/Advanced_Analysis.md",
+    "Notes_From_Sections/Index.md",
+    "Notes_From_Sections/RATU2.md",
+    "Notes_From_Sections/MalwareUnknown.md",
+    "Introduction.md",
+    "BasicDynamicAnalysis.md",
+    "Notes_From_Sections/SillyPutty.md",
+    "Notes_From_Sections/RATUnknown.md",
+    "BasicStaticAnalysis.md",
+    "WindowsAPI.md"
+  ]
+}
